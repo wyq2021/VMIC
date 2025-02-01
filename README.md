@@ -1,5 +1,3 @@
-# Towards an Efficient Remote Sensing Image Compression Network with Visual State Space Model
-
 ## Architectures
 The overall framework.
 
